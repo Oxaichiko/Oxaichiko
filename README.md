@@ -20,7 +20,7 @@ I am a student mathematic in Universitas Negeri Semarang
 
 🌱 Currently I am study in Machine Learning Path in Bangkit 2022\
 💬 I am interested in Machine Learning, Data Science, Mathematic, and Technopreneur\
-📫 If you interest to get to know with me, please connect with me in [Linkedin] (https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/)
+📫 If you interest to get to know with me, please connect with me in my  <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>
   
 ### Github Statistic
 <p align="left">
@@ -34,3 +34,4 @@ I am a student mathematic in Universitas Negeri Semarang
 - <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>
 - <a href="https://www.instagram.com/oxaichiko/">Instagram</a>
 - <a href="https://medium.com/@insyiraahoxa">Medium</a>
+- <a href="https://www.youtube.com/channel/UCyZZDyj8aF14FzK81eNIpug/featured">Youtube</a>
