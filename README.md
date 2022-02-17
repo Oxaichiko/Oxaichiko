@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning machine learning path in Bangkit 2022
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Name is **Insyiraah Oxaichiko Arissinta**.\
+I am a student mathematic in Universitas Negeri Semarang
+
+🌱 Currently I am study in Machine Learning Path in Bangkit 2022\
+💬 I am interested in Machine Learning, Data Science, Mathematic, and Technopreneur\
+📫 If you interest to get to know with me, please connect with me in [Linkedin] (https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/)
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Oxaichiko">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oxaichiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oxaichiko&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>
+- <a href="https://www.instagram.com/oxaichiko/">Instagram</a>
+- <a href="https://medium.com/@insyiraahoxa">Medium</a>
