@@ -19,7 +19,7 @@ My Name is **Insyiraah Oxaichiko Arissinta**.\
 I'mm a mathematics student at Semarang State University
 
 🌱 Currently I am study in Machine Learning Path in Bangkit 2022\
-💬 I am interested in Machine Learning, Data Science, Mathematic, and Technopreneur\
+💬 I am interested in Machine Learning, Data Science, Mathematics, and Technopreneur\
 📫 If you interest to get to know with me, please connect with me in my  <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>
   
 ### Github Statistic
