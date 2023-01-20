@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My Name is **Insyiraah Oxaichiko Arissinta**.\
-I'mm a mathematics student at Semarang State University
+I'm a mathematics student at Semarang State University
 
 🌱 Currently I am study in Machine Learning Path in Bangkit 2022\
 💬 I am interested in Machine Learning, Data Science, Mathematics, and Technopreneur\
