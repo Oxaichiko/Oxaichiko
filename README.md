@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 My Name is **Insyiraah Oxaichiko Arissinta**.\
-I'm a mathematics student at Semarang State University
+I'm a machine learning developer, I have certified global Tensorflow Developer. I am graduated from Machine Learning Path in Bangkit 2022 by Google, Traveloka and GoTo.
 
-🌱 Currently I am study in Machine Learning Path in Bangkit 2022\
+🌱 Currently I am work as a freelancer or remote worker to help many client make machine learning model and help many research on machine learning and data science\
 💬 I am interested in Machine Learning, Data Science, Mathematics, and Technopreneur\
-📫 If you interest to get to know with me, please connect with me in my  <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>
+📫 If you interest to get to know with me, please connect with me in my  <a href="https://www.linkedin.com/in/insyiraah-oxaichiko-arissinta-36a9a7192/">LinkedIn</a>\
+💬  If you want to see my portofolio and article on my medium <a href="https://medium.com/@oxaichiko/">Medium</a>
   
 ### Github Statistic
 <p align="left">
